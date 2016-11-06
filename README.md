@@ -1,4 +1,5 @@
 # hello-world
+
 do sonmething for change;
 
-this is the first files
+基础功能了解了部分，待继续学习
